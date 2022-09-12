@@ -7,7 +7,8 @@ https://staging.connected.nkg.coffee/tobi-info.php
 
 ## Status
 
-### Frontpage
+### Startseite Lighthouse Check
+
 |Messung|Pre Optim|Post Optim|
 |--|--|--|
 |Lighthouse|22||
@@ -18,6 +19,21 @@ https://staging.connected.nkg.coffee/tobi-info.php
 |LCP|5,6 s||
 |CLS|0,072 (green)||
 
+
+### Impressum Lighthouse Check
+
+|Messung|Pre Optim|Post Optim|
+|--|--|--|
+|Lighthouse|16||
+|FCP|8,4s||
+|TTI|16,5s||
+|SI|28,7s||
+|TBT|3,800 ms||
+|LCP|17 s||
+|CLS|0 (green) 🥳||
+
+
+
 ## Zwei Baustellen
 Beide ca 50% Anteil am "Tempo"
 
@@ -25,6 +41,7 @@ Beide ca 50% Anteil am "Tempo"
 TTFB = ~10sekunden muss reduziert werden
 
 Plugins: 
+
 - Quizmaster genauer angucken
 
 
@@ -32,7 +49,7 @@ Plugins:
 
 ### Browser seitig
 
-TotalBlockingTime: 4500ms
+TotalBlockingTime: 4500ms (lokal, Desktop)
 
 - Elementor frontend.min.js "YouTube Loader" bremst
 - zu viele Module bzw. modul init in frontend.min.js (each => attachDocumentClass) und frontend-modules.min.js (each => {getElementSettings()} lahmen
