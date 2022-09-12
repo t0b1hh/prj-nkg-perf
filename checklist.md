@@ -17,3 +17,4 @@
 - [ ] Disable WP Emojis ![Screenshot](/screenshots/wp_emoji.png)
 - [ ] Google Fonts statt von fonts.googleapis.com lokal laden  (irgendwoher kommen noch fonts)
 - [ ] server side caching einrichten ![Screenshot]()/screenshots/ttfb.png
+- [ ] Reduce file size of animations (gifs)
