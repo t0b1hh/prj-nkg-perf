@@ -14,9 +14,8 @@ Errors Encountered
 
 ## WebP Express
 
-Converting 2021/07/placeholder-1.png failed
-None of the converters in the stack could convert the image. failed
+- Converting 2021/07/placeholder-1.png failed
+  - None of the converters in the stack could convert the image. failed
 
-Converting 2021/07/placeholder.png failed
-
-None of the converters in the stack could convert the image. failed
+- Converting 2021/07/placeholder.png failed
+  - None of the converters in the stack could convert the image. failed
