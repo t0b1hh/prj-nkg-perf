@@ -14,7 +14,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "404page - your smart custom 404 error page",
-        "AuthorName": "Peter Raschendorfer"
+        "AuthorName": "Peter Raschendorfer",
+        "active": false
     },
     "better-search-replace\/better-search-replace.php": {
         "Plugin Slug": "",
@@ -31,7 +32,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Better Search Replace",
-        "AuthorName": "Delicious Brains"
+        "AuthorName": "Delicious Brains",
+        "active": true
     },
     "borlabs-cookie\/borlabs-cookie.php": {
         "Plugin Slug": "",
@@ -48,7 +50,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Borlabs Cookie - Cookie Opt-in",
-        "AuthorName": "Borlabs GmbH"
+        "AuthorName": "Borlabs GmbH",
+        "active": true
     },
     "coming-soon\/coming-soon.php": {
         "Plugin Slug": "",
@@ -65,7 +68,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Coming Soon Page, Maintenance Mode, Landing Pages & WordPress Website Builder by SeedProd",
-        "AuthorName": "SeedProd"
+        "AuthorName": "SeedProd",
+        "active": true
     },
     "contact-form-7\/wp-contact-form-7.php": {
         "Plugin Slug": "",
@@ -82,7 +86,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Contact Form 7",
-        "AuthorName": "Takayuki Miyoshi"
+        "AuthorName": "Takayuki Miyoshi",
+        "active": true
     },
     "contact-form-7-multilingual\/plugin.php": {
         "Plugin Slug": "contact-form-7-multilingual",
@@ -99,7 +104,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Contact Form 7 Multilingual",
-        "AuthorName": "OnTheGoSystems"
+        "AuthorName": "OnTheGoSystems",
+        "active": true
     },
     "custom-php-settings\/bootstrap.php": {
         "Plugin Slug": "",
@@ -116,7 +122,26 @@
         "RequiresPHP": "5.6",
         "UpdateURI": "",
         "Title": "Custom PHP settings",
-        "AuthorName": "Cyclonecode"
+        "AuthorName": "Cyclonecode",
+        "active": false
+    },
+    "debug-bar\/debug-bar.php": {
+        "Plugin Slug": "",
+        "Name": "Debug Bar",
+        "PluginURI": "https:\/\/wordpress.org\/plugins\/debug-bar\/",
+        "Version": "1.1.3",
+        "Description": "Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.",
+        "Author": "wordpressdotorg",
+        "AuthorURI": "https:\/\/wordpress.org\/",
+        "TextDomain": "debug-bar",
+        "DomainPath": "",
+        "Network": false,
+        "RequiresWP": "",
+        "RequiresPHP": "",
+        "UpdateURI": "",
+        "Title": "Debug Bar",
+        "AuthorName": "wordpressdotorg",
+        "active": true
     },
     "doubly\/doubly.php": {
         "Plugin Slug": "",
@@ -133,7 +158,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Doubly",
-        "AuthorName": "Unlimited Elements"
+        "AuthorName": "Unlimited Elements",
+        "active": false
     },
     "drag-and-drop-multiple-file-upload-contact-form-7\/drag-n-drop-upload-cf7.php": {
         "Plugin Slug": "",
@@ -150,7 +176,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Drag and Drop Multiple File Upload - Contact Form 7",
-        "AuthorName": "Glen Don L. Mongaya"
+        "AuthorName": "Glen Don L. Mongaya",
+        "active": true
     },
     "duplicator\/duplicator.php": {
         "Plugin Slug": "",
@@ -167,7 +194,8 @@
         "RequiresPHP": "5.3.8",
         "UpdateURI": "",
         "Title": "Duplicator",
-        "AuthorName": "Snap Creek"
+        "AuthorName": "Snap Creek",
+        "active": false
     },
     "ele-custom-skin\/ele-custom-skin.php": {
         "Plugin Slug": "",
@@ -184,7 +212,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Ele Custom Skin",
-        "AuthorName": "Dudaster.com"
+        "AuthorName": "Dudaster.com",
+        "active": true
     },
     "elementor\/elementor.php": {
         "Plugin Slug": "",
@@ -201,7 +230,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Elementor",
-        "AuthorName": "Elementor.com"
+        "AuthorName": "Elementor.com",
+        "active": true
     },
     "header-footer-elementor\/header-footer-elementor.php": {
         "Plugin Slug": "",
@@ -218,7 +248,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Elementor Header & Footer Builder",
-        "AuthorName": "Brainstorm Force, Nikhil Chavan"
+        "AuthorName": "Brainstorm Force, Nikhil Chavan",
+        "active": true
     },
     "elementor-pro\/elementor-pro.php": {
         "Plugin Slug": "",
@@ -235,7 +266,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Elementor Pro",
-        "AuthorName": "Elementor.com"
+        "AuthorName": "Elementor.com",
+        "active": true
     },
     "enable-media-replace\/enable-media-replace.php": {
         "Plugin Slug": "",
@@ -252,7 +284,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Enable Media Replace",
-        "AuthorName": "ShortPixel"
+        "AuthorName": "ShortPixel",
+        "active": true
     },
     "envato-market\/envato-market.php": {
         "Plugin Slug": "",
@@ -269,7 +302,8 @@
         "RequiresPHP": "7.0",
         "UpdateURI": "",
         "Title": "Envato Market",
-        "AuthorName": "Envato"
+        "AuthorName": "Envato",
+        "active": false
     },
     "essential-addons-for-elementor-lite\/essential_adons_elementor.php": {
         "Plugin Slug": "",
@@ -286,7 +320,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Essential Addons for Elementor",
-        "AuthorName": "WPDeveloper"
+        "AuthorName": "WPDeveloper",
+        "active": true
     },
     "forminator\/forminator.php": {
         "Plugin Slug": "",
@@ -303,7 +338,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Forminator",
-        "AuthorName": "WPMU DEV"
+        "AuthorName": "WPMU DEV",
+        "active": true
     },
     "h5p\/h5p.php": {
         "Plugin Slug": "",
@@ -320,7 +356,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "H5P",
-        "AuthorName": "Joubel"
+        "AuthorName": "Joubel",
+        "active": true
     },
     "image-hover-effects-addon-for-elementor\/image-hover-effects-addon-for-elementor.php": {
         "Plugin Slug": "",
@@ -337,7 +374,8 @@
         "RequiresPHP": "5.6",
         "UpdateURI": "",
         "Title": "Image Hover Effects - Elementor Addon",
-        "AuthorName": "Blocksera"
+        "AuthorName": "Blocksera",
+        "active": true
     },
     "jet-menu\/jet-menu.php": {
         "Plugin Slug": "",
@@ -354,7 +392,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "JetMenu",
-        "AuthorName": "Crocoblock"
+        "AuthorName": "Crocoblock",
+        "active": false
     },
     "jet-tricks\/jet-tricks.php": {
         "Plugin Slug": "",
@@ -371,7 +410,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "JetTricks",
-        "AuthorName": "Crocoblock"
+        "AuthorName": "Crocoblock",
+        "active": true
     },
     "jetwidgets-for-elementor\/jetwidgets-for-elementor.php": {
         "Plugin Slug": "",
@@ -388,7 +428,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "JetWidgets For Elementor",
-        "AuthorName": "Crocoblock"
+        "AuthorName": "Crocoblock",
+        "active": false
     },
     "LayerSlider\/layerslider.php": {
         "Plugin Slug": "",
@@ -405,7 +446,8 @@
         "RequiresPHP": "5.4",
         "UpdateURI": "",
         "Title": "LayerSlider",
-        "AuthorName": "Kreatura Media"
+        "AuthorName": "Kreatura Media",
+        "active": false
     },
     "matomo\/matomo.php": {
         "Plugin Slug": "",
@@ -422,7 +464,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Matomo Analytics - Ethical Stats. Powerful Insights.",
-        "AuthorName": "Matomo"
+        "AuthorName": "Matomo",
+        "active": true
     },
     "members\/members.php": {
         "Plugin Slug": "",
@@ -439,7 +482,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Members",
-        "AuthorName": "MemberPress"
+        "AuthorName": "MemberPress",
+        "active": false
     },
     "ooohboi-steroids-for-elementor\/ooohboi-steroids.php": {
         "Plugin Slug": "",
@@ -456,7 +500,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "OoohBoi Steroids for Elementor",
-        "AuthorName": "OoohBoi"
+        "AuthorName": "OoohBoi",
+        "active": true
     },
     "pages-with-category-and-tag\/pages-with-category-and-tag.php": {
         "Plugin Slug": "",
@@ -473,7 +518,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Pages with category and tag",
-        "AuthorName": "YAHMAN"
+        "AuthorName": "YAHMAN",
+        "active": true
     },
     "post-grid-elementor-addon\/post-grid-elementor-addon.php": {
         "Plugin Slug": "",
@@ -490,7 +536,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Post Grid Elementor Addon",
-        "AuthorName": "WP Concern"
+        "AuthorName": "WP Concern",
+        "active": true
     },
     "premium-addons-for-elementor\/premium-addons-for-elementor.php": {
         "Plugin Slug": "",
@@ -507,7 +554,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Premium Addons for Elementor",
-        "AuthorName": "Leap13"
+        "AuthorName": "Leap13",
+        "active": true
     },
     "prime-mover\/prime-mover.php": {
         "Plugin Slug": "",
@@ -524,7 +572,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Prime Mover",
-        "AuthorName": "Codexonics"
+        "AuthorName": "Codexonics",
+        "active": true
     },
     "qi-addons-for-elementor\/class-qiaddonsforelementor.php": {
         "Plugin Slug": "",
@@ -541,13 +590,14 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Qi Addons For Elementor",
-        "AuthorName": "Qode Interactive"
+        "AuthorName": "Qode Interactive",
+        "active": true
     },
     "query-monitor\/query-monitor.php": {
         "Plugin Slug": "",
         "Name": "Query Monitor",
         "PluginURI": "https:\/\/querymonitor.com\/",
-        "Version": "3.9.0",
+        "Version": "3.10.1",
         "Description": "The developer tools panel for WordPress.",
         "Author": "John Blackbourn",
         "AuthorURI": "https:\/\/querymonitor.com\/",
@@ -555,10 +605,11 @@
         "DomainPath": "\/languages\/",
         "Network": false,
         "RequiresWP": "",
-        "RequiresPHP": "5.3.6",
+        "RequiresPHP": "5.6.20",
         "UpdateURI": "",
         "Title": "Query Monitor",
-        "AuthorName": "John Blackbourn"
+        "AuthorName": "John Blackbourn",
+        "active": false
     },
     "quiz-master-next\/mlw_quizmaster2.php": {
         "Plugin Slug": "",
@@ -575,7 +626,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Quiz And Survey Master",
-        "AuthorName": "ExpressTech"
+        "AuthorName": "ExpressTech",
+        "active": true
     },
     "relevanssi\/relevanssi.php": {
         "Plugin Slug": "",
@@ -592,7 +644,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Relevanssi",
-        "AuthorName": "Mikko Saari"
+        "AuthorName": "Mikko Saari",
+        "active": true
     },
     "safe-svg\/safe-svg.php": {
         "Plugin Slug": "",
@@ -609,7 +662,8 @@
         "RequiresPHP": "7.0",
         "UpdateURI": "",
         "Title": "Safe SVG",
-        "AuthorName": "10up"
+        "AuthorName": "10up",
+        "active": true
     },
     "select-instagram-feed\/select-instagram-feed.php": {
         "Plugin Slug": "",
@@ -626,7 +680,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Select Instagram Feed",
-        "AuthorName": "Select Themes"
+        "AuthorName": "Select Themes",
+        "active": true
     },
     "select-twitter-feed\/select-twitter-feed.php": {
         "Plugin Slug": "",
@@ -643,7 +698,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Select Twitter Feed",
-        "AuthorName": "Select Themes"
+        "AuthorName": "Select Themes",
+        "active": true
     },
     "revslider\/revslider.php": {
         "Plugin Slug": "",
@@ -660,7 +716,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Slider Revolution",
-        "AuthorName": "ThemePunch"
+        "AuthorName": "ThemePunch",
+        "active": true
     },
     "stockholm-core\/stockholm-core.php": {
         "Plugin Slug": "",
@@ -677,7 +734,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Stockholm Core",
-        "AuthorName": "Select Themes"
+        "AuthorName": "Select Themes",
+        "active": false
     },
     "analogwp-templates\/analogwp-templates.php": {
         "Plugin Slug": "",
@@ -694,7 +752,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Style Kits for Elementor",
-        "AuthorName": "AnalogWP"
+        "AuthorName": "AnalogWP",
+        "active": false
     },
     "unlimited-elements-for-elementor-premium\/unlimited-elements-pro.php": {
         "Plugin Slug": "",
@@ -711,7 +770,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "Unlimited Elements for Elementor (Premium)",
-        "AuthorName": "Unlimited Elements"
+        "AuthorName": "Unlimited Elements",
+        "active": true
     },
     "unsplash\/unsplash.php": {
         "Plugin Slug": "",
@@ -728,7 +788,8 @@
         "RequiresPHP": "5.6",
         "UpdateURI": "",
         "Title": "Unsplash",
-        "AuthorName": "Unsplash"
+        "AuthorName": "Unsplash",
+        "active": false
     },
     "updraftplus\/updraftplus.php": {
         "Plugin Slug": "",
@@ -745,7 +806,8 @@
         "RequiresPHP": "",
         "UpdateURI": "https:\/\/wordpress.org\/plugins\/updraftplus\/",
         "Title": "UpdraftPlus - Backup\/Restore",
-        "AuthorName": "UpdraftPlus.Com, DavidAnderson"
+        "AuthorName": "UpdraftPlus.Com, DavidAnderson",
+        "active": true
     },
     "user-activity-log\/user_activity_log.php": {
         "Plugin Slug": "",
@@ -762,7 +824,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "User Activity Log",
-        "AuthorName": "Solwin Infotech"
+        "AuthorName": "Solwin Infotech",
+        "active": true
     },
     "user-menus\/user-menus.php": {
         "Plugin Slug": "",
@@ -779,7 +842,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "User Menus",
-        "AuthorName": "Code Atlantic"
+        "AuthorName": "Code Atlantic",
+        "active": false
     },
     "wordfence\/wordfence.php": {
         "Plugin Slug": "",
@@ -796,7 +860,8 @@
         "RequiresPHP": "5.3",
         "UpdateURI": "",
         "Title": "Wordfence Security",
-        "AuthorName": "Wordfence"
+        "AuthorName": "Wordfence",
+        "active": true
     },
     "wp-optimize\/wp-optimize.php": {
         "Plugin Slug": "",
@@ -813,7 +878,8 @@
         "RequiresPHP": "",
         "UpdateURI": "https:\/\/wordpress.org\/plugins\/wp-optimize\/",
         "Title": "WP-Optimize - Clean, Compress, Cache",
-        "AuthorName": "David Anderson, Ruhani Rabin, Team Updraft"
+        "AuthorName": "David Anderson, Ruhani Rabin, Team Updraft",
+        "active": true
     },
     "js_composer\/js_composer.php": {
         "Plugin Slug": "",
@@ -830,7 +896,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WPBakery Page Builder",
-        "AuthorName": "Michael M - WPBakery.com"
+        "AuthorName": "Michael M - WPBakery.com",
+        "active": false
     },
     "wp-console\/wp-console.php": {
         "Plugin Slug": "",
@@ -847,7 +914,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WP Console",
-        "AuthorName": "Edi Amin"
+        "AuthorName": "Edi Amin",
+        "active": true
     },
     "wp-file-manager\/file_folder_manager.php": {
         "Plugin Slug": "",
@@ -864,7 +932,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WP File Manager",
-        "AuthorName": "mndpsingh287"
+        "AuthorName": "mndpsingh287",
+        "active": true
     },
     "wpfront-scroll-top\/wpfront-scroll-top.php": {
         "Plugin Slug": "",
@@ -881,7 +950,8 @@
         "RequiresPHP": "5.3",
         "UpdateURI": "",
         "Title": "WPFront Scroll Top",
-        "AuthorName": "Syam Mohan"
+        "AuthorName": "Syam Mohan",
+        "active": true
     },
     "wpml-cms-nav\/plugin.php": {
         "Plugin Slug": "wpml-cms-nav",
@@ -898,7 +968,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WPML CMS Nav",
-        "AuthorName": "OnTheGoSystems"
+        "AuthorName": "OnTheGoSystems",
+        "active": true
     },
     "sitepress-multilingual-cms\/sitepress.php": {
         "Plugin Slug": "sitepress-multilingual-cms",
@@ -915,7 +986,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WPML Multilingual CMS",
-        "AuthorName": "OnTheGoSystems"
+        "AuthorName": "OnTheGoSystems",
+        "active": true
     },
     "wpml-sticky-links\/plugin.php": {
         "Plugin Slug": "wpml-sticky-links",
@@ -932,7 +1004,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WPML Sticky Links",
-        "AuthorName": "OnTheGoSystems"
+        "AuthorName": "OnTheGoSystems",
+        "active": true
     },
     "wpml-string-translation\/plugin.php": {
         "Plugin Slug": "wpml-string-translation",
@@ -949,7 +1022,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WPML String Translation",
-        "AuthorName": "OnTheGoSystems"
+        "AuthorName": "OnTheGoSystems",
+        "active": true
     },
     "wp-ulike\/wp-ulike.php": {
         "Plugin Slug": "",
@@ -966,7 +1040,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WP ULike",
-        "AuthorName": "TechnoWich"
+        "AuthorName": "TechnoWich",
+        "active": true
     },
     "wp-ulike-pro\/wp-ulike-pro.php": {
         "Plugin Slug": "",
@@ -983,7 +1058,8 @@
         "RequiresPHP": "",
         "UpdateURI": "",
         "Title": "WP ULike Pro",
-        "AuthorName": "TechnoWich"
+        "AuthorName": "TechnoWich",
+        "active": true
     },
     "wp-user-avatars\/wp-user-avatars.php": {
         "Plugin Slug": "",
@@ -1000,6 +1076,7 @@
         "RequiresPHP": "7.0",
         "UpdateURI": "",
         "Title": "WP User Avatars",
-        "AuthorName": "Triple J Software, Inc."
+        "AuthorName": "Triple J Software, Inc.",
+        "active": true
     }
 }
