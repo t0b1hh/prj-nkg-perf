@@ -38,9 +38,13 @@ https://staging.connected.nkg.coffee/tobi-info.php
 Beide ca 50% Anteil am "Tempo"
 
 ### Serverseitig
+
 TTFB = ~10sekunden muss reduziert werden
 
-Plugins: 
+=> Serverseitig caching einführen
+=> generelle Server Performance ausreichend?
+
+#### Plugins: 
 
 - Quizmaster genauer angucken
 
@@ -56,7 +60,7 @@ TotalBlockingTime: 4500ms (lokal, Desktop)
 - Lazy Loading for Images !!! (Lighthouse:  43,79s?)
 - Reduce image sizes (auch animierte gifs!!!)
 - webp
-- render blocking css
+- Render Blocking CSS beheben, wird insb. auf leichteren Seiten wie Impressum kritisch
 - DOM Size (3837 Elements.
   - Lighthouse flags pages with DOM trees that:
     - Warns when the body element has more than ~800 nodes.
