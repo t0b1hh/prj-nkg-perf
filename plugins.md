@@ -6,6 +6,7 @@
 |Plugin|Kommentar|
 |--|--|
 |Custom PHP Settings|nur als Statusanzeige genutzt|
+|Stockholm...| gehört zum nicht genutzten Theme Stockholm|
 
 
 
