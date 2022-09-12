@@ -1,4 +1,5 @@
 <?php
+$as_json = true;
 $plugins = get_plugins();
 
 foreach ( $plugins as $pluginfile => $pluginvalues ) {
@@ -11,4 +12,8 @@ foreach ( $plugins as $pluginfile => $pluginvalues ) {
     $plugins[$pluginfile]['active'] = $res; 
 }
 
-return $plugins;
+if ($as_json) {
+    return json_encode($plugins);
+} else {
+    return $plugins;
+}
