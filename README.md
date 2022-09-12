@@ -4,7 +4,6 @@ staging.connected.nkg.coffee Performance Checks
 # PHP Info
 https://staging.connected.nkg.coffee/tobi-info.php
 
-
 ## Status
 
 ### Startseite Lighthouse Check
@@ -18,7 +17,6 @@ https://staging.connected.nkg.coffee/tobi-info.php
 |TBT|18,680 ms||
 |LCP|5,6 s||
 |CLS|0,072 (green)||
-
 
 ### Impressum Lighthouse Check
 
@@ -45,6 +43,8 @@ TTFB = ~10sekunden muss reduziert werden
 => generelle Server Performance ausreichend?
 
 #### Plugins: 
+
+https://docs.google.com/spreadsheets/d/1Ds3U2QAIiEKaepdA_cXKPNOpwu19Ejpqi0QhA4kMSwg/edit?usp=sharing
 
 - Quizmaster genauer angucken
 
