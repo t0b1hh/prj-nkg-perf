@@ -6,7 +6,7 @@ Done
 - [ ] Delete Broken Theme  "Newspaper Child theme" (ganz unten auf https://staging.connected.nkg.coffee/wp-admin/themes.php )
 - [ ] WordFence Low Resource Scanning 1000/3600/64/10 (https://staging.connected.nkg.coffee/wp-admin/admin.php?page=WordfenceScan&subpage=scan_options)
 - [ ] Install Regenerate Thumbnails Plugin by Viper007 && regenerate thumbnails
-- [ ] 
+- [ ] Install WebP Express && configure (varied, mingled, jpg&png, quality jpg 90/70/60, png 100/100/90, disable Gd for png, convert on upload, test && bulk convert
 
 
 To do
