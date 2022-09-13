@@ -12,6 +12,7 @@
 - [ ] Slider Revolution Global Settings: BG Lazy Load
 - [ ] Replace Kaffeetrinker Gif durch statisches JPG
 - [ ] RevSlider Constant Development gif in "global layers" ~ausgeblendet~ gelöscht.
+- [ ] Delete plugin "Stockholm..." 
 
 
 
@@ -21,4 +22,4 @@
 - [ ] Google Fonts statt von fonts.googleapis.com lokal laden  (irgendwoher kommen noch fonts)
 - [ ] server side caching einrichten ![Screenshot]()/screenshots/ttfb.png
 - [ ] Reduce file size of animations (gifs)
-- [ ] Delete Themes "Stockholm" + Plugin "Stockholm..."
+- [ ] Delete Themes "Stockholm"
