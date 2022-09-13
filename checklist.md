@@ -10,7 +10,7 @@
 - [ ] Install Regenerate Thumbnails Plugin by Viper007 && regenerate thumbnails
 - [ ] Install WebP Express && configure (varied, mingled, jpg&png, quality jpg 90/70/60, png 100/100/90, disable Gd for png, convert on upload, test && bulk convert
 - [ ] Slider Revolution Global Settings: BG Lazy Load
-- [ ] Convert Gif to MP4 ( https://www.adobe.com/express/feature/video/convert/gif-to-mp4 )
+- [ ] Replace Kaffeetrinker Gif durch statisches JPG
 
 ## To do
 
