@@ -14,6 +14,7 @@
 - [ ] RevSlider Constant Development gif in "global layers" ~ausgeblendet~ gelöscht.
 - [ ] Delete plugin "Stockholm..." 
 - [ ] Borlabs Cookie/Matomo: Off
+- [ ] Server Side Caching vorbereitet via Plugin "Super Cache"; hilft, aber löst nicht die Ursache. 
 
 
 
@@ -21,6 +22,6 @@
 
 - [ ] Disable WP Emojis ![Screenshot](/screenshots/wp_emoji.png)
 - [ ] Google Fonts statt von fonts.googleapis.com lokal laden  (irgendwoher kommen noch fonts)
-- [ ] server side caching einrichten ![Screenshot]()/screenshots/ttfb.png
+- [ ] server side caching einrichten ![Screenshot](/screenshots/ttfb.png)
 - [ ] Reduce file size of animations (gifs)
 - [ ] Delete Themes "Stockholm"
