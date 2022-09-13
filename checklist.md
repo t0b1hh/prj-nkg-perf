@@ -13,6 +13,7 @@
 - [ ] Replace Kaffeetrinker Gif durch statisches JPG
 - [ ] RevSlider Constant Development gif in "global layers" ~ausgeblendet~ gelöscht.
 - [ ] Delete plugin "Stockholm..." 
+- [ ] Borlabs Cookie/Matomo: Off
 
 
 
