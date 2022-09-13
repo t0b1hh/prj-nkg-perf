@@ -26,3 +26,13 @@
 - [ ] server side caching einrichten ![Screenshot](/screenshots/ttfb.png)
 - [ ] Reduce file size of animations (gifs)
 - [ ] Delete Themes "Stockholm"
+
+
+## To be checked
+
+- [ ] Custom Fonts einmal in Elementor->Site Settings->Custom CSS (linkes Menü in Elementor) und einmal in Elementor Font Manager (https://staging.connected.nkg.coffee/wp-admin/edit.php?post_type=elementor_font)
+
+
+## Problems
+
+- [ ] Menu items "Contact" + "Subscribe now"  not working
