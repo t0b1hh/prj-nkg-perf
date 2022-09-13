@@ -15,6 +15,7 @@
 - [ ] Delete plugin "Stockholm..." 
 - [ ] Borlabs Cookie/Matomo: Off
 - [ ] Server Side Caching vorbereitet via Plugin "Super Cache"; hilft, aber löst nicht die Ursache. 
+- [ ] Disable Load Maps API JS File + Markers Clustering JS File on https://staging.connected.nkg.coffee/wp-admin/admin.php?page=premium-addons#tab=integrations
 
 
 
