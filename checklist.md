@@ -11,7 +11,7 @@
 - [ ] Install WebP Express && configure (varied, mingled, jpg&png, quality jpg 90/70/60, png 100/100/90, disable Gd for png, convert on upload, test && bulk convert
 - [ ] Slider Revolution Global Settings: BG Lazy Load
 - [ ] Replace Kaffeetrinker Gif durch statisches JPG
-- [ ] RevSlider Constant Development gif in "global layers" ~ausgeblendet~ gelöscht. 
+- [ ] RevSlider Constant Development gif in "global layers" ~ausgeblendet~ gelöscht.
 
 
 
@@ -21,3 +21,4 @@
 - [ ] Google Fonts statt von fonts.googleapis.com lokal laden  (irgendwoher kommen noch fonts)
 - [ ] server side caching einrichten ![Screenshot]()/screenshots/ttfb.png
 - [ ] Reduce file size of animations (gifs)
+- [ ] Delete Themes "Stockholm" + Plugin "Stockholm..."
