@@ -35,4 +35,4 @@
 
 ## Problems
 
-- [ ] Menu items "Contact" + "Subscribe now"  not working
+- [ ] Menu items "Contact" + "Subscribe now"  not working (for lang=english) 
