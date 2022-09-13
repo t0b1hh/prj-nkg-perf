@@ -11,7 +11,7 @@
 - [ ] Install WebP Express && configure (varied, mingled, jpg&png, quality jpg 90/70/60, png 100/100/90, disable Gd for png, convert on upload, test && bulk convert
 - [ ] Slider Revolution Global Settings: BG Lazy Load
 - [ ] Replace Kaffeetrinker Gif durch statisches JPG
-- [ ] RevSlider Constant Development gif in "global layers" ausgeblendet. 
+- [ ] RevSlider Constant Development gif in "global layers" ~ausgeblendet~ gelöscht. 
 
 
 
