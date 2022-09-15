@@ -1,6 +1,11 @@
 # prj-nkg-perf
 staging.connected.nkg.coffee Performance Checks
 
+# Aufbereitete Daten für Kunden:
+
+https://drive.google.com/drive/folders/1jZUe4tCPGPrXjgm6f6mE6xgIVz6NT9jm
+
+
 # PHP Info
 https://staging.connected.nkg.coffee/tobi-info.php
 
