@@ -56,6 +56,7 @@ https://www.boldgrid.com/w3-total-cache/
 - Umfangreich
 - Bringt Minification, WEbP, Defer CSS, Lazy Load etc mit
 - Alternative zu "AutOptimize +Cache"
+- Object Cache (DB Responses)
 
 - Pro Version:
   - WPML Support
@@ -63,6 +64,11 @@ https://www.boldgrid.com/w3-total-cache/
   - Fragment Caching
   - Statistics
   - FullSite Delivery via CDN
+
+![Bildschirmfoto 2022-09-18 um 16 33 41](https://user-images.githubusercontent.com/5128133/190912407-ce4eb76a-e8bf-401e-bdf0-5201f27b93a5.png)
+![Bildschirmfoto 2022-09-18 um 16 33 45](https://user-images.githubusercontent.com/5128133/190912412-e9e86de3-bbdd-41ed-b4c7-e750a2981ce6.png)
+
+
 
 
 #### WP Fastest Cache (Freemium)
